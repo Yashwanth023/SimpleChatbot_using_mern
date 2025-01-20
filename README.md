@@ -80,4 +80,4 @@ Before running the application, ensure you have the following installed:
 
 ## Screenshots
 
-- Are placed in the readme_content file .
+- Demo video is  placed in the readme_content file .
